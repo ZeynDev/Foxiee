@@ -190,7 +190,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 - Clone this repo:
 
 ```
-git clone https://github.com/Dawn-India/Z-Mirror Z-Mirror/ && cd Z-Mirror
+Git clone https://github.com/ZeynDev/Foxiee.git Foxiee/ && cd Foxiee
 ```
 
 - For Debian based distros
@@ -747,8 +747,8 @@ button_name button_url
 ```
 Example:
 ```
-Owner https://telegram.me/z_mirror
-Updates https://telegram.me/z_mirror
+Owner https://telegram.me/EritsuCH
+Updates https://telegram.me/EritsuCH
 ```
 - **Note**: If you want to add space in button name use `_` for add space
 
